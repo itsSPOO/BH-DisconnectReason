@@ -4,6 +4,7 @@
   
   ![FiveM](https://img.shields.io/badge/FiveM-Approved-success?style=for-the-badge&logo=fivem)
   ![QBCore](https://img.shields.io/badge/QBCore-Framework-blue?style=for-the-badge)
+  [![Discord](https://img.shields.io/badge/Discord-Join_Community-7289da?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/9bFFcqFXPR)
 </div>
 
 <hr>
@@ -45,7 +46,7 @@ Config.Reasons = {
 
 ## 💬 Support & Feedback
 
-If you encounter any issues or have suggestions, please open an **Issue**.
+If you encounter any issues or have suggestions, please open an **Issue** or join our [**Discord**](https://discord.gg/9bFFcqFXPR).
 
 ---
 <div align="center">
